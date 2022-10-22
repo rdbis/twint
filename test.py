@@ -57,8 +57,8 @@ def main():
     runs = [
         twint.run.Profile,  # this doesn't
         twint.run.Search,  # this works
-        twint.run.Following,
-        twint.run.Followers,
+#        twint.run.Following,
+#        twint.run.Followers,
         twint.run.Favorites,
     ]
 
