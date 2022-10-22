@@ -1,6 +1,7 @@
 import datetime, pandas as pd, warnings
 from time import strftime, localtime
 from twint.tweet import Tweet_formats
+from twint.cli import error
 
 Tweets_df = None
 Follow_df = None
