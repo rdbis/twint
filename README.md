@@ -1,3 +1,13 @@
+# Twint Fork
+This repository is the fork of https://github.com/twintproject/twint
+plus fixes from other twint forks:
+
+https://github.com/minamotorin/twint
+
+https://github.com/woluxwolu/twint.git
+
+Modified by rdbis. 
+In case of any problems with code in the repo, please open new issue for this fork.
 # TWINT - Twitter Intelligence Tool
 ![2](https://i.imgur.com/iaH3s7z.png)
 ![3](https://i.imgur.com/hVeCrqL.png)
