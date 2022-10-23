@@ -59,7 +59,7 @@ def main():
         twint.run.Search,  # this works
 #        twint.run.Following,
 #        twint.run.Followers,
-        twint.run.Favorites,
+#        twint.run.Favorites,
     ]
 
     tests = [test_reg, test_json, test_csv, test_db]
